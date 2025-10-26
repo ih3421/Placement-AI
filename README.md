@@ -15,3 +15,4 @@ When giving new parameters to the model make sure to normalise them using the sc
 
 If you have a different dataset you wish to train the model on or if you wish to give it different parameters then change the dataset and train the model as required.
 
+The given dataset has been sourced from kaggle and the model trainer file from ChatGPT.
