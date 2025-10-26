@@ -88,6 +88,7 @@ plt.show()
 
 # --- Step 12: Save Model for Deployment ---
 import joblib
-joblib.dump(log_reg, "placement_model.pkl")
-joblib.dump(scaler, "scaler.pkl")
+joblib.dump(log_reg, "/storage/emulated/0/logistic_model.pkl")
+joblib.dump(rf, "/storage/emulated/0/randomForest_model.pkl")
+joblib.dump(scaler, "/storage/emulated/0/scaler.pkl")
 print("\n✅ Model and scaler saved successfully!")
