@@ -16,3 +16,5 @@ When giving new parameters to the model make sure to normalise them using the sc
 If you have a different dataset you wish to train the model on or if you wish to give it different parameters then change the dataset and train the model as required.
 
 The given dataset and the model trainer file have been sourced from kaggle and ChatGPT respectively.
+
+A UI has been designed to run both models using streamlit, make sure it is in the same folder as the model and scaler files.
