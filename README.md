@@ -17,4 +17,4 @@ If you have a different dataset you wish to train the model on or if you wish to
 
 The given dataset and the model trainer file have been sourced from kaggle and ChatGPT respectively.
 
-A UI has been designed to run both models using streamlit, make sure it is in the same folder as the model and scaler files.
+A UI has been designed to run both models using streamlit, make sure it is in the same folder as the model and scaler files before running it.
